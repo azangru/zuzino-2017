@@ -1,7 +1,11 @@
 import {
-  renderStreets
-} from './addresses';
+  showStreets
+} from './controllers';
+import {
+  addListeners
+} from './controllers';
 
 document.addEventListener("DOMContentLoaded", () => {
-  renderStreets();
+  addListeners();
+  showStreets();
 });

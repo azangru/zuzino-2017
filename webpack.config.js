@@ -3,7 +3,10 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 const defaultConfig = {
-  entry: path.resolve(__dirname, './source/app.js'),
+  entry: [
+    path.resolve(__dirname, './source/app.js'),
+    path.resolve(__dirname, './source/app.css')
+  ],
   output: {
     path: path.resolve(__dirname, 'build'),
     filename: 'polling-stations.js'
@@ -32,7 +35,8 @@ const defaultConfig = {
     new HtmlWebpackPlugin({
       title: 'Кандидаты «Штаба Зюзино» по избирательным участкам',
       template: path.resolve(__dirname, './source/index.ejs')
-    })
+    }),
+    new ExtractTextPlugin('styles.css')
   ]
 };
 
@@ -43,7 +47,11 @@ const developmentConfig = Object.assign(defaultConfig, {
   }
 });
 
+const productionConfig = Object.assign(defaultConfig, {
+  devtool: false
+});
+
 module.exports = (env) => {
   console.log('env?', env);
-  return env && env.dev ? developmentConfig : defaultConfig;
+  return env && env.dev ? developmentConfig : productionConfig;
 };
