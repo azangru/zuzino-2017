@@ -1,0 +1,86 @@
+[
+  {
+    "id": "gurylev",
+    "firstName": "Борис",
+    "lastName": "Гурылев",
+    "link": "http://www.zuzino-shtab.ru/gurylev"
+  },
+  {
+    "id": "klykov",
+    "firstName": "Сергей",
+    "lastName": "Клыков",
+    "link": "http://www.zuzino-shtab.ru/klykov"
+  },
+  {
+    "id": "malakhov",
+    "firstName": "Петр",
+    "lastName": "Малахов",
+    "link": "http://www.zuzino-shtab.ru/malakhov"
+  },
+  {
+    "id": "samgin",
+    "firstName": "Юрий",
+    "lastName": "Самгин",
+    "link": "http://www.zuzino-shtab.ru/samgin"
+  },
+  {
+    "id": "yankauskas",
+    "firstName": "Константин",
+    "lastName": "Янкаускас",
+    "link": "http://www.zuzino-shtab.ru/yankauskas"
+  },
+  {
+    "id": "arkhipova",
+    "firstName": "Наталья",
+    "lastName": "Архипова",
+    "link": "http://www.zuzino-shtab.ru/arkhipova"
+  },
+  {
+    "id": "moroz",
+    "firstName": "Юрий",
+    "lastName": "Мороз",
+    "link": "http://www.zuzino-shtab.ru/moroz"
+  },
+  {
+    "id": "shafranov",
+    "firstName": "Илья",
+    "lastName": "Шафранов",
+    "link": "http://www.zuzino-shtab.ru/shafranov"
+  },
+  {
+    "id": "yatsyk",
+    "firstName": "Светлана",
+    "lastName": "Яцык",
+    "link": "http://www.zuzino-shtab.ru/yatsyk"
+  },
+  {
+    "id": "grishin",
+    "firstName": "Антон",
+    "lastName": "Гришин",
+    "link": "http://www.zuzino-shtab.ru/grishin"
+  },
+  {
+    "id": "zamyatin",
+    "firstName": "Александр",
+    "lastName": "Замятин",
+    "link": "http://www.zuzino-shtab.ru/zamyatin"
+  },
+  {
+    "id": "ivanov",
+    "firstName": "Михаил",
+    "lastName": "Иванов",
+    "link": "http://www.zuzino-shtab.ru/ivanov"
+  },
+  {
+    "id": "lukyanenko",
+    "firstName": "Алексей",
+    "lastName": "Лукьяненко",
+    "link": "http://www.zuzino-shtab.ru/lukyanenko"
+  },
+  {
+    "id": "chernysheva",
+    "firstName": "Наталья",
+    "lastName": "Чернышева",
+    "link": "http://www.zuzino-shtab.ru/chernysheva"
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "var1",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2172",
+    "pollingStationAddress": "Болотниковская ул., дом 52, корп. 3"
+  },
+  {
+    "id": "var2",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2173",
+    "pollingStationAddress": "Болотниковская ул., дом 52, корп. 3"
+  },
+  {
+    "id": "var3",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2174",
+    "pollingStationAddress": "Болотниковская ул., дом 47, корп. 2"
+  },
+  {
+    "id": "var4",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2175",
+    "pollingStationAddress": "Болотниковская ул., дом 47, корп. 2"
+  },
+  {
+    "id": "var5",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2176",
+    "pollingStationAddress": "Перекопская ул., дом 7, корп. 3"
+  },
+  {
+    "id": "var6",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2177",
+    "pollingStationAddress": "Севастопольский просп., дом 71"
+  },
+  {
+    "id": "var7",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2178",
+    "pollingStationAddress": "Каховка ул., дом 12, корп. 2"
+  },
+  {
+    "id": "var8",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2179",
+    "pollingStationAddress": "Каховка ул., дом 19, корп. 2"
+  },
+  {
+    "id": "var9",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2180",
+    "pollingStationAddress": "Каховка ул., дом 19, корп. 2"
+  },
+  {
+    "id": "var10",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2181",
+    "pollingStationAddress": "Каховка ул., дом 19, корп. 3"
+  },
+  {
+    "id": "var11",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2182",
+    "pollingStationAddress": "Каховка ул., дом 19, корп. 3"
+  },
+  {
+    "id": "var12",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2183",
+    "pollingStationAddress": "Каховка ул., дом 19, корп. 3"
+  },
+  {
+    "id": "var13",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2184",
+    "pollingStationAddress": "Одесская ул., дом 27/14"
+  },
+  {
+    "id": "var14",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2185",
+    "pollingStationAddress": "Одесская ул., дом 27/14"
+  },
+  {
+    "id": "var15",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2186",
+    "pollingStationAddress": "Юшуньская М. ул., дом 4"
+  },
+  {
+    "id": "var16",
+    "district": "Округ №1",
+    "candidates": [
+      "gurylev",
+      "klykov",
+      "malakhov",
+      "samgin",
+      "yankauskas"
+    ],
+    "pollingStationId": "УИК №2187",
+    "pollingStationAddress": "Одесская ул., дом 16, корп. 2"
+  },
+  {
+    "id": "var17",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2188",
+    "pollingStationAddress": "Одесская ул., дом 13"
+  },
+  {
+    "id": "var18",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2189",
+    "pollingStationAddress": "Одесская ул., дом 13"
+  },
+  {
+    "id": "var19",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2190",
+    "pollingStationAddress": "Азовская ул., дом 2, корп. 2"
+  },
+  {
+    "id": "var20",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2191",
+    "pollingStationAddress": "Сивашская ул., дом 2, корп. 1"
+  },
+  {
+    "id": "var21",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2192",
+    "pollingStationAddress": "Сивашская ул., дом 2, корп. 1"
+  },
+  {
+    "id": "var22",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2193",
+    "pollingStationAddress": "Фруктовая ул., дом 18"
+  },
+  {
+    "id": "var23",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2194",
+    "pollingStationAddress": "Каховка ул., дом 13, корп. 2"
+  },
+  {
+    "id": "var24",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2195",
+    "pollingStationAddress": "Балаклавский просп., дом 32, корп. 4"
+  },
+  {
+    "id": "var25",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2196",
+    "pollingStationAddress": "Балаклавский просп., дом 32, корп. 4"
+  },
+  {
+    "id": "var26",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2197",
+    "pollingStationAddress": "Каховка ул., дом 11, корп. 2"
+  },
+  {
+    "id": "var27",
+    "district": "Округ №3",
+    "candidates": [
+      "grishin",
+      "zamyatin",
+      "ivanov",
+      "lukyanenko",
+      "chernysheva"
+    ],
+    "pollingStationId": "УИК №2198",
+    "pollingStationAddress": "Юшуньская Б. ул., дом 14"
+  },
+  {
+    "id": "var28",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2199",
+    "pollingStationAddress": "Чонгарский бульв., дом 25"
+  },
+  {
+    "id": "var29",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2200",
+    "pollingStationAddress": "Азовская ул., дом 31"
+  },
+  {
+    "id": "var30",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2201",
+    "pollingStationAddress": "Азовская ул., дом 31"
+  },
+  {
+    "id": "var31",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2202",
+    "pollingStationAddress": "Азовская ул., дом 41"
+  },
+  {
+    "id": "var32",
+    "district": "Округ №2",
+    "candidates": [
+      "arkhipova",
+      "moroz",
+      "shafranov",
+      "yatsyk"
+    ],
+    "pollingStationId": "УИК №2203",
+    "pollingStationAddress": "Азовская ул., дом 41"
+  }
+]

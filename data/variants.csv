@@ -1,0 +1,33 @@
+№ варианта,№ Округа,Кандидат 1,Кандидат 2,Кандидат 3,Кандидат 4,Кандидат 5,УИК №,Адрес УИК,Время работы УИК
+var1,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2172,"Болотниковская ул., дом 52, корп. 3",
+var2,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2173,"Болотниковская ул., дом 52, корп. 3",Время работы УИК: 8.00-20.00
+var3,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2174,"Болотниковская ул., дом 47, корп. 2",Время работы УИК: 8.00-20.00
+var4,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2175,"Болотниковская ул., дом 47, корп. 2",Время работы УИК: 8.00-20.00
+var5,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2176,"Перекопская ул., дом 7, корп. 3",Время работы УИК: 8.00-20.00
+var6,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2177,"Севастопольский просп., дом 71",Время работы УИК: 8.00-20.00
+var7,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2178,"Каховка ул., дом 12, корп. 2",Время работы УИК: 8.00-20.00
+var8,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2179,"Каховка ул., дом 19, корп. 2",Время работы УИК: 8.00-20.00
+var9,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2180,"Каховка ул., дом 19, корп. 2",Время работы УИК: 8.00-20.00
+var10,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2181,"Каховка ул., дом 19, корп. 3",Время работы УИК: 8.00-20.00
+var11,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2182,"Каховка ул., дом 19, корп. 3",Время работы УИК: 8.00-20.00
+var12,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2183,"Каховка ул., дом 19, корп. 3",Время работы УИК: 8.00-20.00
+var13,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2184,"Одесская ул., дом 27/14",Время работы УИК: 8.00-20.00
+var14,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2185,"Одесская ул., дом 27/14",Время работы УИК: 8.00-20.00
+var15,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2186,"Юшуньская М. ул., дом 4",Время работы УИК: 8.00-20.00
+var16,Округ №1,gurylev,klykov,malakhov,samgin,yankauskas,УИК №2187,"Одесская ул., дом 16, корп. 2",Время работы УИК: 8.00-20.00
+var17,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2188,"Одесская ул., дом 13",Время работы УИК: 8.00-20.00
+var18,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2189,"Одесская ул., дом 13",Время работы УИК: 8.00-20.00
+var19,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2190,"Азовская ул., дом 2, корп. 2",Время работы УИК: 8.00-20.00
+var20,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2191,"Сивашская ул., дом 2, корп. 1",Время работы УИК: 8.00-20.00
+var21,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2192,"Сивашская ул., дом 2, корп. 1",Время работы УИК: 8.00-20.00
+var22,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2193,"Фруктовая ул., дом 18",Время работы УИК: 8.00-20.00
+var23,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2194,"Каховка ул., дом 13, корп. 2",Время работы УИК: 8.00-20.00
+var24,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2195,"Балаклавский просп., дом 32, корп. 4",Время работы УИК: 8.00-20.00
+var25,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2196,"Балаклавский просп., дом 32, корп. 4",Время работы УИК: 8.00-20.00
+var26,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2197,"Каховка ул., дом 11, корп. 2",Время работы УИК: 8.00-20.00
+var27,Округ №3,grishin,zamyatin,ivanov,lukyanenko,chernysheva,УИК №2198,"Юшуньская Б. ул., дом 14",Время работы УИК: 8.00-20.00
+var28,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2199,"Чонгарский бульв., дом 25",Время работы УИК: 8.00-20.00
+var29,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2200,"Азовская ул., дом 31",Время работы УИК: 8.00-20.00
+var30,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2201,"Азовская ул., дом 31",Время работы УИК: 8.00-20.00
+var31,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2202,"Азовская ул., дом 41",Время работы УИК: 8.00-20.00
+var32,Округ №2,arkhipova,moroz,shafranov,yatsyk,,УИК №2203,"Азовская ул., дом 41",Время работы УИК: 8.00-20.00
