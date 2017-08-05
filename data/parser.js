@@ -1,10 +1,11 @@
 let parse = require('csv-parse');
 let fs = require('fs');
 let compact = require('lodash/compact');
+let path = require('path')
 
-let addressesFilePath = ('./addresses.csv');
-let candidatesFilePath = ('./candidates.csv');
-let variantsFilePath = ('./variants.csv');
+let addressesFilePath = path.resolve(__dirname, './addresses.csv');
+let candidatesFilePath = path.resolve(__dirname, './candidates.csv');
+let variantsFilePath = path.resolve(__dirname, './variants.csv');
 
 let addressesFile = fs.readFileSync(addressesFilePath);
 let variantsFile = fs.readFileSync(variantsFilePath);
@@ -42,16 +43,18 @@ function candidatesParser(data) {
 
 
 parse(addressesFile, {from: 2}, (err, output) => {
-  addresses = output.map(data => addressParser(data));
-  fs.writeFileSync('./addresses.json', JSON.stringify(addresses, null, 2));
+  addresses = {
+    addresses: output.map(data => addressParser(data))
+  };
+  fs.writeFileSync(path.resolve(__dirname,'./addresses.json'), JSON.stringify(addresses, null, 2), 'utf8');
 });
 
 parse(variantsFile, {from: 2}, (err, output) => {
   variants = output.map(data => votingOptionsParser(data));
-  fs.writeFileSync('./variants.json', JSON.stringify(variants, null, 2));
+  fs.writeFileSync(path.resolve(__dirname, './variants.json'), JSON.stringify(variants, null, 2));
 });
 
 parse(candidatesFile, {from: 2}, (err, output) => {
   candidates = output.map(data => candidatesParser(data));
-  fs.writeFileSync('./candidates.json', JSON.stringify(candidates, null, 2));
+  fs.writeFileSync(path.resolve(__dirname, './candidates.json'), JSON.stringify(candidates, null, 2));
 });
