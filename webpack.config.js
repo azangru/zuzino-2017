@@ -9,7 +9,7 @@ const defaultConfig = {
   ],
   output: {
     path: path.resolve(__dirname, 'build'),
-    filename: 'polling-stations.js'
+    filename: 'polling-stations-[hash].js'
   },
   module: {
     rules: [
@@ -36,7 +36,7 @@ const defaultConfig = {
       title: 'Кандидаты «Штаба Зюзино» по избирательным участкам',
       template: path.resolve(__dirname, './source/index.ejs')
     }),
-    new ExtractTextPlugin('styles.css')
+    new ExtractTextPlugin('styles-[hash].css')
   ]
 };
 
@@ -52,6 +52,6 @@ const productionConfig = Object.assign(defaultConfig, {
 });
 
 module.exports = (env) => {
-  console.log('env?', env);
+  console.log('env?', env ? env : 'production');
   return env && env.dev ? developmentConfig : productionConfig;
 };
