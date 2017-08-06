@@ -1,2360 +1,2362 @@
-[
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "3",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "4",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "6 к. 1",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "6 к. 2",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "7 к. 1",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "7 к. 2",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "8",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "9 к. 1",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "9 к. 2",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "10",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "11 к. 1",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "12 к. 1",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "12 к. 2",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "14",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "16",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "21",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "23",
-    "votingOptions": "var27"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "24 к. 1",
-    "votingOptions": "var27"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "24 к. 2",
-    "votingOptions": "var27"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "25 к. 1",
-    "votingOptions": "var27"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "25 к. 2",
-    "votingOptions": "var27"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "25 к. 3",
-    "votingOptions": "var27"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "29 к. 1",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "29 к. 2",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "33 к. 1",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "33 к. 2",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "35 к. 1",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "35 к. 2",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "37 к. 1",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "37 к. 2",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "azovskaya-ulitsa",
-    "streetName": "Азовская ул.",
-    "building": "37 к. 3",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "16",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "16 к. 2",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "18 к. 1",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "18 к. 2",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "20 к. 1",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "20 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "20 к. 3",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "20 к. 4",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "24 к. 1",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "24 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "24 к. 3",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "26 к. 1",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "26 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "30 к. 2",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "32 к. 1",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "32 к. 2",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "34 к. 1",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "34 к. 2",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "34 к. 3",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "34 к. 4",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "34 к. 5",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "34 к. 6",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "34 к. 7",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "34 к. 8",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "36 к. 1",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "36 к. 2",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "36 к. 3",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "36 к. 4",
-    "votingOptions": "var24"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "38",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "40",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "42",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "44",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "46 к. 1",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "46 к. 2",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "46а",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "48 к. 1",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "50",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "52 к. 1",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "52 к. 2",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "54",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "balaklavsky-prospekt",
-    "streetName": "Балаклавский просп.",
-    "building": "56 к. 1",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "13",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "15",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "17",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "18",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "20",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "20 к. 1",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "21 к. 1",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "21 к. 2",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "22 к. 1",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "26 к. 1",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "26 к. 2",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "28 к. 1",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "28 к. 2",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "30",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "30 к. 2",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "31",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "31 к. 1",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "31 к. 2",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "33 к. 1а",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "33 к. 2",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "33 к. 3",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "34 к. 1",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "35/2",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "36 к. 1",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "36 к. 2",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "36 к. 3",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "36 к. 4",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "36 к. 5",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "36 к. 6",
-    "votingOptions": "var16"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "37",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "38 к. 1",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "38 к. 2",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "38 к. 3",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "38 к. 4",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "38 к. 5",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "38 к. 6",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "39",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "40 к. 1",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "40 к. 2",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "40 к. 3",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "40 к. 4",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "40 к. 5",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "41",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "42 к. 1",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "42 к. 3",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "43",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "44 к. 1",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "44 к. 2",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "44 к. 3",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "44 к. 4",
-    "votingOptions": "var2"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "45 к. 1",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "45 к. 2",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "45 к. 3",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "46 к. 1",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "46 к. 2",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "46 к. 3",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "47 к. 1",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "48",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "49",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "50",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "51 к. 1",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "51 к. 2",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "53 к. 2",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "54 к. 1",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "54 к. 2",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolotnokovskaya-ulitsa",
-    "streetName": "Болотниковская ул.",
-    "building": "54 к. 3",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "bolshaya-yushunskaya-ulitsa",
-    "streetName": "Большая Юшуньская ул.",
-    "building": "4",
-    "votingOptions": "var27"
-  },
-  {
-    "id": "bolshaya-yushunskaya-ulitsa",
-    "streetName": "Большая Юшуньская ул.",
-    "building": "6",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "bolshaya-yushunskaya-ulitsa",
-    "streetName": "Большая Юшуньская ул.",
-    "building": "8",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "bolshaya-yushunskaya-ulitsa",
-    "streetName": "Большая Юшуньская ул.",
-    "building": "10",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "bolshaya-yushunskaya-ulitsa",
-    "streetName": "Большая Юшуньская ул.",
-    "building": "12",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "bolshaya-yushunskaya-ulitsa",
-    "streetName": "Большая Юшуньская ул.",
-    "building": "16",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "1",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "3 к. 1",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "3 к. 2",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "5 к. 1",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "5 к. 2",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "5 к. 3",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "5 к. 4",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "5 к. 5",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "6",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "7 к. 1",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "7 к. 2",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "9 к. 1",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "9 к. 2",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "9 к. 3",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "9Б",
-    "votingOptions": "var26"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "10/12 к. 1",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "10/12 к. 2",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "10 к. 3",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "12 к. 1",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "13 к. 1",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "13 к. 2",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "13 к. 3",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "13 к. 4",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "13 к. 5-6",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "13 к. 7",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "13 к. 8",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "13 к. 9",
-    "votingOptions": "var25"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "14 к. 1",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "14 к. 2",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "14 к. 3",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "14 к. 4",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "15 к. 1",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "15 к. 2",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "16 к. 1",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "16 к. 2",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "16 к. 3",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "17/14",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "19 к. 1",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "21 к. 1",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "21 к. 2",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "21 к. 3",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "23 к. 1",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "23 к. 2",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "25",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "25 к. 1",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "25 к. 2",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "27 к. 1",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "kakhovka",
-    "streetName": "Каховка ул.",
-    "building": "27 к. 2",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "1 к. 1",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "1 к. 2",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "1а к. 1",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "1а к. 2",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "1а к. 3",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "3 к. 1",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "5",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "6 к. 1",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "6 к. 2",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "6 к. 3",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "7",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "8",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "9",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "10 к. 1",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "10 к. 2",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "10 к. 3",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "10 к. 4",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "11 к. 1",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "11 к. 2",
-    "votingOptions": "var23"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "16",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "18",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "20",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "22",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "24",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "26",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "28",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "30",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "kerchenskaya-ulitsa",
-    "streetName": "Керченская ул.",
-    "building": "32",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "3",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "6 к. 1",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "6 к. 2",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "6 к. 3",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "8 к. 1",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "8 к. 2",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "10 к. 1",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "12 к. 1",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "malaya-yushunskaya-ulitsa",
-    "streetName": "Малая Юшуньская ул.",
-    "building": "12 к. 2",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "7 к. 1",
-    "votingOptions": "var20"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "7 к. 2",
-    "votingOptions": "var20"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "9 к. 1",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "9 к. 2",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "11 к. 1",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "11 к. 2",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "15 к. 1",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "15 к. 2",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "17 к. 1",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "nakhimovsky-prospekt",
-    "streetName": "Нахимовский просп.",
-    "building": "17 к. 2",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "1/19",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "3",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "5",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "7",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "11",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "14 к. 1",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "14 к. 3а",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "14 к. 4а",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "14 к. 5",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "15",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "17",
-    "votingOptions": "var17"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "18 к. 1",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "18 к. 2",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "18 к. 3",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "18 к. 4",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "20",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "22 к. 1",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "22 к. 2",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "22 к. 3",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "22 к. 4",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "22 к. 5",
-    "votingOptions": "var13"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "23 к. 1",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "23 к. 2",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "23 к. 3",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "23 к. 4",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "23 к. 5",
-    "votingOptions": "var15"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "25",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "odesskaya-ulitsa",
-    "streetName": "Одесская ул.",
-    "building": "27/14",
-    "votingOptions": "var14"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "1 к. 1",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "1 к. 2",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "2/4",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "3",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "4",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "5",
-    "votingOptions": "var5"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "6",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "8",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "10 к. 1",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "10 к. 2",
-    "votingOptions": "var4"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "11 к. 1",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "11 к. 2",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "11 к. 3",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "11 к. 4",
-    "votingOptions": "var7"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "14 к. 1",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "14 к. 2",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "16",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "perekopskaya-ulitsa",
-    "streetName": "Перекопская ул.",
-    "building": "18",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "53",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "57",
-    "votingOptions": "var1"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "59",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "63/20",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "65/15",
-    "votingOptions": "var3"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "67",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "69",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "71",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "73",
-    "votingOptions": "var6"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "75 к. 1",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "75 к. 2",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "77 к. 1",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "77 к. 2",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "77 к. 3",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "77 к. 4",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "79",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "81",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "83 к. 1",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "sevastopolsky-prospekt",
-    "streetName": "Севастопольский просп.",
-    "building": "83 к. 2",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "2 к. 2",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "4 к. 1",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "4 к. 3",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "4 к. 4",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "6 к. 1",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "6 к. 2",
-    "votingOptions": "var19"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "7",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "7 к. 1",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "7 к. 2",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "9",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "11",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "13",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "15",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "17",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "19",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "sivashskaya-ulitsa",
-    "streetName": "Сивашская ул.",
-    "building": "21",
-    "votingOptions": "var18"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "2",
-    "votingOptions": "var20"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "2а",
-    "votingOptions": "var20"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "2в",
-    "votingOptions": "var20"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "4а",
-    "votingOptions": "var20"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "14",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "14 к. 1",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "14 к. 3",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "16 к. 2",
-    "votingOptions": "var28"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "16 к. 3",
-    "votingOptions": "var28"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "16 к. 4",
-    "votingOptions": "var28"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "16 к. 5",
-    "votingOptions": "var28"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "18 к. 1",
-    "votingOptions": "var28"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "18 к. 2",
-    "votingOptions": "var28"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "20а",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "24 к. 1",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "24 к. 2",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "24 к. 3",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "24 к. 4",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "24 к. 5",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "24 к. 6",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "24 к. 7",
-    "votingOptions": "var29"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "26/11",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "30 к. 1",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "30 к. 2",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "simferopolsky-bulvar",
-    "streetName": "Симферопольский бульв.",
-    "building": "30 к. 3",
-    "votingOptions": "var32"
-  },
-  {
-    "id": "fruktovaya-ulitsa",
-    "streetName": "Фруктовая ул.",
-    "building": "11",
-    "votingOptions": "var21"
-  },
-  {
-    "id": "fruktovaya-ulitsa",
-    "streetName": "Фруктовая ул.",
-    "building": "16",
-    "votingOptions": "var20"
-  },
-  {
-    "id": "fruktovaya-ulitsa",
-    "streetName": "Фруктовая ул.",
-    "building": "20",
-    "votingOptions": "var20"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "1",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "2",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "3",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "4",
-    "votingOptions": "var12"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "5 к. 2",
-    "votingOptions": "var11"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "6",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "7 к. 1",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "7 к. 2",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "7 к. 3",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "7 к. 4",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "8",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "9 к. 1",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "9 к. 2",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "12 к. 1",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "12 к. 2",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "12 к. 3",
-    "votingOptions": "var9"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "12 к. 4",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "12 к. 5",
-    "votingOptions": "var8"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "14",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "16",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "hersonskaya-ulitsa",
-    "streetName": "Херсонская ул.",
-    "building": "18",
-    "votingOptions": "var10"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "11 к. 1",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "11 к. 2",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "13 к. 1",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "13 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "15 к. 1",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "15 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "17 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "18",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "19 к. 1",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "19 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "20",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "21 к. 1",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "21 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "22 к. 1",
-    "votingOptions": "var30"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "23 к. 1",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chernomorsky-bulvar",
-    "streetName": "Черноморский бульв.",
-    "building": "23 к. 2",
-    "votingOptions": "var31"
-  },
-  {
-    "id": "chongarsky-bulvar",
-    "streetName": "Чонгарский бульв.",
-    "building": "21",
-    "votingOptions": "var28"
-  },
-  {
-    "id": "chongarsky-bulvar",
-    "streetName": "Чонгарский бульв.",
-    "building": "22 к. 1",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "chongarsky-bulvar",
-    "streetName": "Чонгарский бульв.",
-    "building": "22 к. 2",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "chongarsky-bulvar",
-    "streetName": "Чонгарский бульв.",
-    "building": "23",
-    "votingOptions": "var28"
-  },
-  {
-    "id": "chongarsky-bulvar",
-    "streetName": "Чонгарский бульв.",
-    "building": "26",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "chongarsky-bulvar",
-    "streetName": "Чонгарский бульв.",
-    "building": "27 к. 2",
-    "votingOptions": "var27"
-  },
-  {
-    "id": "chongarsky-bulvar",
-    "streetName": "Чонгарский бульв.",
-    "building": "28",
-    "votingOptions": "var22"
-  },
-  {
-    "id": "chongarsky-bulvar",
-    "streetName": "Чонгарский бульв.",
-    "building": "30",
-    "votingOptions": "var22"
-  }
-]
+{
+  "addresses": [
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "3",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "4",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "6 к. 1",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "6 к. 2",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "7 к. 1",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "7 к. 2",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "8",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "9 к. 1",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "9 к. 2",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "10",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "11 к. 1",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "12 к. 1",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "12 к. 2",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "14",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "16",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "21",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "23",
+      "votingOptions": "var27"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "24 к. 1",
+      "votingOptions": "var27"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "24 к. 2",
+      "votingOptions": "var27"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "25 к. 1",
+      "votingOptions": "var27"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "25 к. 2",
+      "votingOptions": "var27"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "25 к. 3",
+      "votingOptions": "var27"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "29 к. 1",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "29 к. 2",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "33 к. 1",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "33 к. 2",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "35 к. 1",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "35 к. 2",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "37 к. 1",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "37 к. 2",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "azovskaya-ulitsa",
+      "streetName": "Азовская ул.",
+      "building": "37 к. 3",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "16",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "16 к. 2",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "18 к. 1",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "18 к. 2",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "20 к. 1",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "20 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "20 к. 3",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "20 к. 4",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "24 к. 1",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "24 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "24 к. 3",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "26 к. 1",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "26 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "30 к. 2",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "32 к. 1",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "32 к. 2",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "34 к. 1",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "34 к. 2",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "34 к. 3",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "34 к. 4",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "34 к. 5",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "34 к. 6",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "34 к. 7",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "34 к. 8",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "36 к. 1",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "36 к. 2",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "36 к. 3",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "36 к. 4",
+      "votingOptions": "var24"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "38",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "40",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "42",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "44",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "46 к. 1",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "46 к. 2",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "46а",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "48 к. 1",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "50",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "52 к. 1",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "52 к. 2",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "54",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "balaklavsky-prospekt",
+      "streetName": "Балаклавский просп.",
+      "building": "56 к. 1",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "13",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "15",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "17",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "18",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "20",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "20 к. 1",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "21 к. 1",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "21 к. 2",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "22 к. 1",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "26 к. 1",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "26 к. 2",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "28 к. 1",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "28 к. 2",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "30",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "30 к. 2",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "31",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "31 к. 1",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "31 к. 2",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "33 к. 1а",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "33 к. 2",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "33 к. 3",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "34 к. 1",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "35/2",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "36 к. 1",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "36 к. 2",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "36 к. 3",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "36 к. 4",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "36 к. 5",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "36 к. 6",
+      "votingOptions": "var16"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "37",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "38 к. 1",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "38 к. 2",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "38 к. 3",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "38 к. 4",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "38 к. 5",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "38 к. 6",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "39",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "40 к. 1",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "40 к. 2",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "40 к. 3",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "40 к. 4",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "40 к. 5",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "41",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "42 к. 1",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "42 к. 3",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "43",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "44 к. 1",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "44 к. 2",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "44 к. 3",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "44 к. 4",
+      "votingOptions": "var2"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "45 к. 1",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "45 к. 2",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "45 к. 3",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "46 к. 1",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "46 к. 2",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "46 к. 3",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "47 к. 1",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "48",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "49",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "50",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "51 к. 1",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "51 к. 2",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "53 к. 2",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "54 к. 1",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "54 к. 2",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolotnokovskaya-ulitsa",
+      "streetName": "Болотниковская ул.",
+      "building": "54 к. 3",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "bolshaya-yushunskaya-ulitsa",
+      "streetName": "Большая Юшуньская ул.",
+      "building": "4",
+      "votingOptions": "var27"
+    },
+    {
+      "id": "bolshaya-yushunskaya-ulitsa",
+      "streetName": "Большая Юшуньская ул.",
+      "building": "6",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "bolshaya-yushunskaya-ulitsa",
+      "streetName": "Большая Юшуньская ул.",
+      "building": "8",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "bolshaya-yushunskaya-ulitsa",
+      "streetName": "Большая Юшуньская ул.",
+      "building": "10",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "bolshaya-yushunskaya-ulitsa",
+      "streetName": "Большая Юшуньская ул.",
+      "building": "12",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "bolshaya-yushunskaya-ulitsa",
+      "streetName": "Большая Юшуньская ул.",
+      "building": "16",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "1",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "3 к. 1",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "3 к. 2",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "5 к. 1",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "5 к. 2",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "5 к. 3",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "5 к. 4",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "5 к. 5",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "6",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "7 к. 1",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "7 к. 2",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "9 к. 1",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "9 к. 2",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "9 к. 3",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "9Б",
+      "votingOptions": "var26"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "10/12 к. 1",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "10/12 к. 2",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "10 к. 3",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "12 к. 1",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "13 к. 1",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "13 к. 2",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "13 к. 3",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "13 к. 4",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "13 к. 5-6",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "13 к. 7",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "13 к. 8",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "13 к. 9",
+      "votingOptions": "var25"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "14 к. 1",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "14 к. 2",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "14 к. 3",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "14 к. 4",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "15 к. 1",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "15 к. 2",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "16 к. 1",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "16 к. 2",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "16 к. 3",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "17/14",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "19 к. 1",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "21 к. 1",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "21 к. 2",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "21 к. 3",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "23 к. 1",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "23 к. 2",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "25",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "25 к. 1",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "25 к. 2",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "27 к. 1",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "kakhovka",
+      "streetName": "Каховка ул.",
+      "building": "27 к. 2",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "1 к. 1",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "1 к. 2",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "1а к. 1",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "1а к. 2",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "1а к. 3",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "3 к. 1",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "5",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "6 к. 1",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "6 к. 2",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "6 к. 3",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "7",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "8",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "9",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "10 к. 1",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "10 к. 2",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "10 к. 3",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "10 к. 4",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "11 к. 1",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "11 к. 2",
+      "votingOptions": "var23"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "16",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "18",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "20",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "22",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "24",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "26",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "28",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "30",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "kerchenskaya-ulitsa",
+      "streetName": "Керченская ул.",
+      "building": "32",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "3",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "6 к. 1",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "6 к. 2",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "6 к. 3",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "8 к. 1",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "8 к. 2",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "10 к. 1",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "12 к. 1",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "malaya-yushunskaya-ulitsa",
+      "streetName": "Малая Юшуньская ул.",
+      "building": "12 к. 2",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "7 к. 1",
+      "votingOptions": "var20"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "7 к. 2",
+      "votingOptions": "var20"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "9 к. 1",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "9 к. 2",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "11 к. 1",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "11 к. 2",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "15 к. 1",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "15 к. 2",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "17 к. 1",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "nakhimovsky-prospekt",
+      "streetName": "Нахимовский просп.",
+      "building": "17 к. 2",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "1/19",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "3",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "5",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "7",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "11",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "14 к. 1",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "14 к. 3а",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "14 к. 4а",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "14 к. 5",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "15",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "17",
+      "votingOptions": "var17"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "18 к. 1",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "18 к. 2",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "18 к. 3",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "18 к. 4",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "20",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "22 к. 1",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "22 к. 2",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "22 к. 3",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "22 к. 4",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "22 к. 5",
+      "votingOptions": "var13"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "23 к. 1",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "23 к. 2",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "23 к. 3",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "23 к. 4",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "23 к. 5",
+      "votingOptions": "var15"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "25",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "odesskaya-ulitsa",
+      "streetName": "Одесская ул.",
+      "building": "27/14",
+      "votingOptions": "var14"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "1 к. 1",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "1 к. 2",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "2/4",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "3",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "4",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "5",
+      "votingOptions": "var5"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "6",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "8",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "10 к. 1",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "10 к. 2",
+      "votingOptions": "var4"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "11 к. 1",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "11 к. 2",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "11 к. 3",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "11 к. 4",
+      "votingOptions": "var7"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "14 к. 1",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "14 к. 2",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "16",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "perekopskaya-ulitsa",
+      "streetName": "Перекопская ул.",
+      "building": "18",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "53",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "57",
+      "votingOptions": "var1"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "59",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "63/20",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "65/15",
+      "votingOptions": "var3"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "67",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "69",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "71",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "73",
+      "votingOptions": "var6"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "75 к. 1",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "75 к. 2",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "77 к. 1",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "77 к. 2",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "77 к. 3",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "77 к. 4",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "79",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "81",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "83 к. 1",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "sevastopolsky-prospekt",
+      "streetName": "Севастопольский просп.",
+      "building": "83 к. 2",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "2 к. 2",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "4 к. 1",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "4 к. 3",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "4 к. 4",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "6 к. 1",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "6 к. 2",
+      "votingOptions": "var19"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "7",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "7 к. 1",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "7 к. 2",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "9",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "11",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "13",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "15",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "17",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "19",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "sivashskaya-ulitsa",
+      "streetName": "Сивашская ул.",
+      "building": "21",
+      "votingOptions": "var18"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "2",
+      "votingOptions": "var20"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "2а",
+      "votingOptions": "var20"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "2в",
+      "votingOptions": "var20"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "4а",
+      "votingOptions": "var20"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "14",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "14 к. 1",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "14 к. 3",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "16 к. 2",
+      "votingOptions": "var28"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "16 к. 3",
+      "votingOptions": "var28"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "16 к. 4",
+      "votingOptions": "var28"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "16 к. 5",
+      "votingOptions": "var28"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "18 к. 1",
+      "votingOptions": "var28"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "18 к. 2",
+      "votingOptions": "var28"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "20а",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "24 к. 1",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "24 к. 2",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "24 к. 3",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "24 к. 4",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "24 к. 5",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "24 к. 6",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "24 к. 7",
+      "votingOptions": "var29"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "26/11",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "30 к. 1",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "30 к. 2",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "simferopolsky-bulvar",
+      "streetName": "Симферопольский бульв.",
+      "building": "30 к. 3",
+      "votingOptions": "var32"
+    },
+    {
+      "id": "fruktovaya-ulitsa",
+      "streetName": "Фруктовая ул.",
+      "building": "11",
+      "votingOptions": "var21"
+    },
+    {
+      "id": "fruktovaya-ulitsa",
+      "streetName": "Фруктовая ул.",
+      "building": "16",
+      "votingOptions": "var20"
+    },
+    {
+      "id": "fruktovaya-ulitsa",
+      "streetName": "Фруктовая ул.",
+      "building": "20",
+      "votingOptions": "var20"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "1",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "2",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "3",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "4",
+      "votingOptions": "var12"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "5 к. 2",
+      "votingOptions": "var11"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "6",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "7 к. 1",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "7 к. 2",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "7 к. 3",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "7 к. 4",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "8",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "9 к. 1",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "9 к. 2",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "12 к. 1",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "12 к. 2",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "12 к. 3",
+      "votingOptions": "var9"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "12 к. 4",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "12 к. 5",
+      "votingOptions": "var8"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "14",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "16",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "hersonskaya-ulitsa",
+      "streetName": "Херсонская ул.",
+      "building": "18",
+      "votingOptions": "var10"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "11 к. 1",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "11 к. 2",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "13 к. 1",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "13 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "15 к. 1",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "15 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "17 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "18",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "19 к. 1",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "19 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "20",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "21 к. 1",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "21 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "22 к. 1",
+      "votingOptions": "var30"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "23 к. 1",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chernomorsky-bulvar",
+      "streetName": "Черноморский бульв.",
+      "building": "23 к. 2",
+      "votingOptions": "var31"
+    },
+    {
+      "id": "chongarsky-bulvar",
+      "streetName": "Чонгарский бульв.",
+      "building": "21",
+      "votingOptions": "var28"
+    },
+    {
+      "id": "chongarsky-bulvar",
+      "streetName": "Чонгарский бульв.",
+      "building": "22 к. 1",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "chongarsky-bulvar",
+      "streetName": "Чонгарский бульв.",
+      "building": "22 к. 2",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "chongarsky-bulvar",
+      "streetName": "Чонгарский бульв.",
+      "building": "23",
+      "votingOptions": "var28"
+    },
+    {
+      "id": "chongarsky-bulvar",
+      "streetName": "Чонгарский бульв.",
+      "building": "26",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "chongarsky-bulvar",
+      "streetName": "Чонгарский бульв.",
+      "building": "27 к. 2",
+      "votingOptions": "var27"
+    },
+    {
+      "id": "chongarsky-bulvar",
+      "streetName": "Чонгарский бульв.",
+      "building": "28",
+      "votingOptions": "var22"
+    },
+    {
+      "id": "chongarsky-bulvar",
+      "streetName": "Чонгарский бульв.",
+      "building": "30",
+      "votingOptions": "var22"
+    }
+  ]
+}

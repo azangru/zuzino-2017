@@ -1,0 +1,83 @@
+html {
+  font-size: 16px;
+}
+
+main {
+  max-width: 980px;
+  margin: auto;
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: 28px;
+  }
+}
+
+.section-header {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+a, a:visited {
+  color: blue;
+}
+
+.streets-list {
+  padding-left: 30px;
+}
+
+.buildings-list {
+  width: 100px;
+  margin: auto;
+}
+
+.internal-link {
+  color: blue;
+  border-bottom: 1px dashed;
+  cursor: pointer;
+}
+
+.internal-link, .candidate {
+  display: inline-block;
+  margin-bottom: 8px;
+}
+
+.district-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+.showing {
+  animation: showing 0.3s
+}
+
+.hiding {
+  animation: hiding 0.3s
+}
+
+@keyframes showing {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes hiding {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
