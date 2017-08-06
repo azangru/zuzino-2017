@@ -14,13 +14,9 @@ const defaultConfig = {
   module: {
     rules: [
       {
-        test: /\.js/,
+        test: /\.js$/,
         exclude: [ path.resolve(__dirname, 'node_modules') ],
         loader: 'babel-loader'
-      },
-      {
-        test: /\.json/,
-        loader: 'json-loader'
       },
       {
         test: /\.css$/,
