@@ -1,5 +1,5 @@
 import {
-  showStreets
+  start
 } from './controllers';
 import {
   addListeners
@@ -7,5 +7,5 @@ import {
 
 document.addEventListener("DOMContentLoaded", () => {
   addListeners();
-  showStreets();
+  start();
 });

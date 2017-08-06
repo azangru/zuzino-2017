@@ -2,13 +2,17 @@
 <html>
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
     <title><%= htmlWebpackPlugin.options.title %></title>
   </head>
   <body>
     <main>
-      <div id="streets-list"></div>
-      <div id="buildings-list"></div>
-      <div id="result"></div>
+      <h1>
+        Куда приходить голосовать и кто будет в списке кандидатов?
+      </h1>
+      <div id="streets-list" class="hidden"></div>
+      <div id="buildings-list" class="hidden"></div>
+      <div id="result" class="hidden"></div>
     </main>
   </body>
 </html>

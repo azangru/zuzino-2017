@@ -10,6 +10,7 @@ export function renderStreets() {
   const streetsListContainer = document.getElementById('streets-list');
   const header = renderStreetsBlockHeader();
   const streetsList = document.createElement('ul');
+  streetsList.classList.add('streets-list');
   const streets = getStreets().map(street => renderStreet(street));
   streets.forEach((street) => streetsList.appendChild(street));
   streetsListContainer.appendChild(header);
@@ -41,6 +42,7 @@ export function renderBuildings(streetId) {
 
   const header = renderBuildingsBlockHeader();
   const buildingsList = document.createElement('ul');
+  buildingsList.classList.add('buildings-list');
   const buildings = getBuildingsForStreet(streetId).map(building => renderBuilding(building));
   buildings.forEach((building) => buildingsList.appendChild(building));
   buildingsListContainer.appendChild(header);
@@ -108,6 +110,7 @@ function renderCandidate(candidate) {
   candidateElement.text = `${candidate.lastName} ${candidate.firstName}`;
   candidateElement.setAttribute('href', candidate.link);
   candidateElement.setAttribute('target', '_blank');
+  candidateElement.classList.add('candidate');
   candidateElementContainer.appendChild(candidateElement);
   return candidateElementContainer;
 }
@@ -119,7 +122,7 @@ function renderPollingStation({pollingStationId, pollingStationAddress}) {
   const pollingStationAddressElement = document.createElement('div');
   pollingStationAddressElement.innerHTML = pollingStationAddress;
   const pollingStationOpenTimeElement = document.createElement('div');
-  pollingStationOpenTimeElement.innerHTML = 'Время работы УИК: 8:00-20:00';
+  pollingStationOpenTimeElement.innerHTML = 'Время работы УИК: 8:00 — 20:00';
 
   pollingStationElementContainer.appendChild(pollingStationIdElement);
   pollingStationElementContainer.appendChild(pollingStationAddressElement);
