@@ -7,12 +7,6 @@ main {
   margin: auto;
 }
 
-@media screen and (max-width: 767px) {
-  h1 {
-    font-size: 28px;
-  }
-}
-
 .section-header {
   font-size: 24px;
   font-weight: bold;
@@ -27,13 +21,8 @@ a, a:visited {
   color: blue;
 }
 
-.streets-list {
+.streets-list, .buildings-list {
   padding-left: 30px;
-}
-
-.buildings-list {
-  width: 100px;
-  margin: auto;
 }
 
 .internal-link {
@@ -62,6 +51,18 @@ a, a:visited {
 
 .hiding {
   animation: hiding 0.3s
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: 28px;
+  }
+
+  .buildings-list {
+    width: 100px;
+    padding: 0;
+    margin: auto;
+  }
 }
 
 @keyframes showing {

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prebuild": "rm -rf ./build",
     "build": "webpack -p",
     "dev": "webpack-dev-server --open --env dev",
     "prepublish": "npm run build",
