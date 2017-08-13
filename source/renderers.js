@@ -106,7 +106,7 @@ export function renderResult(variantId) {
 
 function renderResultTitle() {
   const { street: { name: streetName }, building: { number: buildingNumber } } = store;
-  const message = `Информация для жильцов, проживающих по адресу: ${streetName}, дом ${buildingNumber}.`;
+  const message = `Жителям дома: ${streetName}, дом ${buildingNumber}.`;
 
   const title = document.createElement('div');
   title.classList.add('result-title');
