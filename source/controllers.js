@@ -4,10 +4,12 @@ import {
   renderBuildings,
   renderResult
 } from './renderers';
+import store from './store';
 
 export function addListeners() {
   addStreetsContainerListeners();
   addBuildingsContainerListeners();
+  addResultContainerListeners();
 }
 
 const views = {
@@ -20,6 +22,7 @@ function addStreetsContainerListeners() {
   const streetsContainer = document.getElementById('streets-list');
   streetsContainer.addEventListener('click', (event) => {
     if (isStreetName(event.target)) {
+      storeStreetInfo(event.target);
       const streetId = getStreetId(event.target);
       showBuildings(streetId);
       switchTo('buildings-list');
@@ -31,9 +34,21 @@ function addBuildingsContainerListeners() {
   const buildingsContainer = document.getElementById('buildings-list');
   buildingsContainer.addEventListener('click', (event) => {
     if (isBuilding(event.target)) {
+      storeBuildingInfo(event.target);
       const variantId = getVotingOptionsId(event.target);
       showResult(variantId);
       switchTo('result');
+    } else if (isBackLink(event.target)) {
+      switchTo('streets-list');
+    }
+  })
+}
+
+function addResultContainerListeners() {
+  const resultContainer = document.getElementById('result');
+  resultContainer.addEventListener('click', (event) => {
+    if (isBackLink(event.target)) {
+      switchTo('buildings-list');
     }
   })
 }
@@ -85,8 +100,22 @@ function getStreetId(element) {
   return element.getAttribute('data-street-id');
 }
 
+function storeStreetInfo(element) {
+  const streetId = element.getAttribute('data-street-id');
+  const streetName = element.innerHTML;
+  store.street.id = streetId;
+  store.street.name = streetName;
+}
+
 function isBuilding(element) {
   return !!getVotingOptionsId(element);
+}
+
+function storeBuildingInfo(element) {
+  const buildingId = element.getAttribute('data-voting-options');
+  const buildingNumber = element.innerHTML;
+  store.building.id = buildingId;
+  store.building.number = buildingNumber;
 }
 
 function getVotingOptionsId(element) {
@@ -103,8 +132,10 @@ function hideContainer(container) {
 }
 
 function onHideAnimationEnd(event) {
-  event.target.classList.add('hidden');
-  event.target.classList.remove('hiding');
+  const element = event.target;
+  element.removeEventListener('animationend', onHideAnimationEnd);
+  element.classList.add('hidden');
+  element.classList.remove('hiding');
 }
 
 function showContainer(container) {
@@ -114,5 +145,12 @@ function showContainer(container) {
 }
 
 function onShowAnimationEnd(event) {
-  event.target.classList.remove('showing');
+  const element = event.target;
+  element.removeEventListener('animationend', onShowAnimationEnd);
+  element.classList.remove('showing');
+}
+
+function isBackLink(element) {
+  const elementId = element.id;
+  return elementId === 'back-to-streets' || elementId === 'back-to-buildings';
 }

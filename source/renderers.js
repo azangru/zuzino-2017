@@ -3,6 +3,7 @@ import {
   getBuildingsForStreet,
   getResult
 } from './data-selectors';
+import store from './store';
 
 /** RENDERERS FOR STREETS **/
 
@@ -45,8 +46,10 @@ export function renderBuildings(streetId) {
   buildingsList.classList.add('buildings-list');
   const buildings = getBuildingsForStreet(streetId).map(building => renderBuilding(building));
   buildings.forEach((building) => buildingsList.appendChild(building));
+  const backToStreets = renderBackLink('streets')
   buildingsListContainer.appendChild(header);
   buildingsListContainer.appendChild(buildingsList);
+  buildingsListContainer.appendChild(backToStreets);
 }
 
 function renderBuilding({building, votingOptions}) {
@@ -66,21 +69,49 @@ function renderBuildingsBlockHeader() {
   return header;
 }
 
+function renderBackLink(screenName) {
+  const message = screenName === 'streets' ?
+    '← Назад к списку улиц' : '← Назад к списку домов';
+
+  const linkContainer = document.createElement('div');
+  const link = document.createElement('a');
+  linkContainer.classList.add('back-link-container');
+  link.classList.add('internal-link');
+  link.setAttribute('id', `back-to-${screenName}`);
+  link.text = message;
+  linkContainer.appendChild(link);
+  return linkContainer;
+}
+
 /** RENDERERS FOR POLLING STATION AND CANDIDATES **/
 export function renderResult(variantId) {
   const resultContainer = document.getElementById('result');
   resultContainer.innerHTML = ''; // clear the container
 
   const { district, candidates, pollingStationId, pollingStationAddress } = getResult(variantId);
+  const title = renderResultTitle();
   const districtElement = renderDistrictName(district);
   const candidatesElement = renderCandidates(candidates);
   const pollingStationElement = renderPollingStation({pollingStationId, pollingStationAddress});
   const thankYouElement = renderThankYou();
+  const backToBuildings = renderBackLink('buildings')
 
+  resultContainer.appendChild(title);
   resultContainer.appendChild(districtElement);
   resultContainer.appendChild(candidatesElement);
   resultContainer.appendChild(pollingStationElement);
   resultContainer.appendChild(thankYouElement);
+  resultContainer.appendChild(backToBuildings);
+}
+
+function renderResultTitle() {
+  const { street: { name: streetName }, building: { number: buildingNumber } } = store;
+  const message = `Информация для жильцов, проживающих по адресу: ${streetName}, дом ${buildingNumber}.`;
+
+  const title = document.createElement('div');
+  title.classList.add('result-title');
+  title.innerHTML = message;
+  return title;
 }
 
 function renderDistrictName(district) {

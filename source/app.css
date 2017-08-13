@@ -36,9 +36,19 @@ a, a:visited {
   margin-bottom: 8px;
 }
 
+.back-link-container {
+  margin-top: 16px;
+}
+
+.result-title {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
 .district-name {
   font-size: 20px;
   font-weight: bold;
+  margin-bottom: 16px;
 }
 
 .hidden {
