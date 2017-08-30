@@ -154,10 +154,14 @@ function renderPollingStation({pollingStationId, pollingStationAddress}) {
   pollingStationAddressElement.innerHTML = pollingStationAddress;
   const pollingStationOpenTimeElement = document.createElement('div');
   pollingStationOpenTimeElement.innerHTML = 'Время работы УИК: 8:00 — 20:00';
+  const earlyVotingElement = document.createElement('div');
+  earlyVotingElement.classList.add('early-voting');
+  earlyVotingElement.innerHTML = "Вы можете проголосовать досрочно с 30 августа по 9 сентября по адресу: ул. Каховка, д. 12Б.\nБудни: с 16:00 до 20:00, выходные: с 10:00 до 14:00"
 
   pollingStationElementContainer.appendChild(pollingStationIdElement);
   pollingStationElementContainer.appendChild(pollingStationAddressElement);
   pollingStationElementContainer.appendChild(pollingStationOpenTimeElement);
+  pollingStationElementContainer.appendChild(earlyVotingElement);
   return pollingStationElementContainer;
 }
 
